@@ -1,0 +1,251 @@
+body {
+background-image: url("http://geodavephotography.com/images/cafe-wallpaper/37846642-cafe-wallpaper.jpg");
+background-size: cover;
+background-repeat: repeat-y;
+}
+
+#one {
+  width: 1150px;
+  height: 1000px;
+  margin-left:670px;
+  margin-top: 30px;
+
+}
+#two{
+  font-size:100px;
+  margin: 30px;
+  font-family: 'Lobster Two', cursive;
+  color: #68940E;
+}
+#three{
+  margin-top: -70px;
+  width: 600px;
+  height: 150px;
+}
+#four{
+  font-size: 50px;
+  font-family: 'Droid Serif', serif;
+  color:#394349;
+}
+#five{
+  height:100px;
+  width:100px;
+}
+
+
+td {
+  height: 75px;
+  width:1000px;
+  border: 5px solid #BDCE9A;
+  font-size: 50px;
+}
+
+#six {
+  width: 250px;
+  height: 500px;
+  display: inline-block;
+}
+#six1 {
+  width: 250px;
+  height: 500px;
+  vertical-align: top;
+  display: inline-block;
+
+}
+#seven {
+  text-align: left;
+  font-size:20px;
+  font-family: 'Droid Serif', serif;
+}
+
+#eight {
+  font-size: 30px;
+  font-family: 'Droid Serif', serif;
+  color:#394349;
+}
+#nine {
+  text-align: left;
+  font-size:30px;
+    color:#394349;
+  font-family: 'Droid Serif', serif;
+}
+
+#ten {
+  font-size: 20px;
+  font-family: 'Droid Serif', serif;
+
+}
+#eleven {
+  text-align: left;
+  font-size:30px;
+    color:#394349;
+  font-family: 'Droid Serif', serif;
+}
+
+#twelve {
+  font-size: 20px;
+  font-family: 'Droid Serif', serif;
+
+}
+#eleven {
+  text-align: left;
+  font-size:30px;
+    color:#394349;
+  font-family: 'Droid Serif', serif;
+}
+
+#twelve {
+  font-size: 20px;
+  font-family: 'Droid Serif', serif;
+
+}
+#thirteen{
+  text-align: left;
+  font-size:30px;
+    color:#394349;
+  font-family: 'Droid Serif', serif;
+}
+
+#fourteen {
+  font-size: 20px;
+  font-family: 'Droid Serif', serif;
+
+}
+#first{
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -650px;
+}
+
+#first:hover{
+  height:150px;
+  width:150px;
+}
+#second{
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -500px;
+}
+#second:hover{
+  height:150px;
+  width:150px;
+}
+#third{
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -350px;
+}
+#third:hover{
+  height:150px;
+  width:150px;
+}
+#fourth {
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -200px;
+}
+#fourth:hover {
+  height:150px;
+  width:150px;
+}
+#fifth{
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -50px;
+}
+#fifth:hover {
+  height:150px;
+  width:150px;
+}
+#sixth{
+  font-size: 50px;
+  font-family: 'Droid Serif', serif;
+  color:#394349;
+}
+#photoone{
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -650px;
+}
+
+#photoone:hover{
+  height:150px;
+  width:150px;
+}
+#phototwo{
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -500px;
+}
+#phototwo:hover{
+  height:150px;
+  width:150px;
+}
+#photothree{
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -350px;
+}
+#photothree:hover{
+  height:150px;
+  width:150px;
+}
+#photofour {
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -200px;
+}
+#photofour:hover {
+  height:150px;
+  width:150px;
+}
+#photofive{
+  height:90px;
+  width:90px;
+  float: left;
+  padding: 50px;
+  margin-left: -50px;
+}
+#photofive:hover {
+  height:150px;
+  width:150px;
+}
+#photo{
+  font-size: 50px;
+  font-family: 'Droid Serif', serif;
+  color:#394349;
+}
+
+}
+#map{
+  height:500px;
+  width:600px;
+}
+#word{
+  font-size: 50px;
+  font-family: 'Droid Serif', serif;
+  color:#394349;
+
+}
+
+td {
+  text-align: center;
+}
